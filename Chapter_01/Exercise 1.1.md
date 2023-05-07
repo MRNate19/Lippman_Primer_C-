@@ -1,0 +1,3 @@
+ Review the documentation for your compiler and determine what file naming convention it uses. Compile and run the main program from page 2.
+
+ - This is a tricky task - even if you have experience using a computer! My advice would be to install Microsoft Visual Studio 2022 (community edition) and find a tutorial on YouTube to guide you through the process. I'm using VSCode and the GNU compiler as I think Visual Studio's "project system" is a bit too heavy duty for book exercises!
