@@ -13,6 +13,6 @@ and the operand on the right is a value which is printed onto the screen.
 
 The result of using the << operator with the appropriate operands is the ostream object.
 
-<font face="Cascadia Mono SemiBold" size="3">std::cout << "Hello" << std::endl;</font>
+<<std::cout << "Hello" << std::endl;>>
 
 which is cout in this case.
